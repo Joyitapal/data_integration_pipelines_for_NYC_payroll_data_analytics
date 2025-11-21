@@ -1,0 +1,9 @@
+{
+	"name": "udacitydatafactory",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c0e5ea46-67d2-482a-bf71-92ca07df9887",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
